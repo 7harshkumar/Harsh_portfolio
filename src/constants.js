@@ -149,7 +149,7 @@ export const SkillsInfo = [
       school: "Aakash International Sr. Sec. School, New Delhi",
       date: "Apr 2021 - March 2022",
       grade: "81%",
-      desc: "I completed my class 12 education from Aakash International Sr. Sec. School, New Delhi, under the CBSE board, where I studied Physics, Chemistry, and Mathematics (PCM) with Physical Eduaction.",
+      desc: "I completed my class 12 education from Aakash International Sr. Sec. School, New Delhi, under the CBSE board, where I studied Physics, Chemistry, and Mathematics (PCM) with Physical Education.",
       degree: "CBSE(XII) - PCM",
     },
     {
